@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\programmation even\td2\ex2\bin\Debug\net8.0-windows\ex2.exe
+C:\Users\user\Desktop\programmation even\td2\ex2\bin\Debug\net8.0-windows\ex2.deps.json
+C:\Users\user\Desktop\programmation even\td2\ex2\bin\Debug\net8.0-windows\ex2.runtimeconfig.json
+C:\Users\user\Desktop\programmation even\td2\ex2\bin\Debug\net8.0-windows\ex2.dll
+C:\Users\user\Desktop\programmation even\td2\ex2\bin\Debug\net8.0-windows\ex2.pdb
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.Form1.resources
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.AssemblyInfo.vb
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.dll
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\refint\ex2.dll
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.pdb
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ex2.genruntimeconfig.cache
+C:\Users\user\Desktop\programmation even\td2\ex2\obj\Debug\net8.0-windows\ref\ex2.dll
